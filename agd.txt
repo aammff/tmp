@@ -12,3 +12,10 @@ nie uważam żeby indukcja była lepsza od elektrycznych albo gazowych. najlepie
 ogólnie jeśli coś hałasuje, wydaje dźwięki, wibracje, cokolowiek, to jest źle skonstruowane.
 
 producenci tego gówna/dziadostwa są winni.
+
+
+jeżeli urządzenie jest zbudowane przy pomocy mikrokontrolerów/mikroprocesorów, to wypada żeby to było free software,  nie należy jakby upośledzać komputerów.
+
+czyli powinno się dać zbudować jakąś domową sieć, żeby np. dało się włączyć albo wyłączyć cokolwiek, tak jak i z komputerami.
+
+wszystkie schematy powinny być ogólno dostępne

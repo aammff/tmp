@@ -31,7 +31,7 @@ luźne komentarze w kontekście tych tekstów
 [ogólnie moje zainteresowania to były komputery, muzyka, wspinanie, joga - w tej kolejności; książki o religiach też czytałem, ale lajtowo]
 [też się chciałem dowiedzieć o co chodzi tym wszystkim ludziom od psyche - o nic, są popierdoleni - powiedzenie "obyś cudze dzieci uczył" jest prawdziwe; po learym psychologów już nie ma - są tylko kapo obozowi.] - psychologią obecnie zajmują się psychopaci ze skłonnościami do psychomanipulowania - definicja sekty z wikipedii wspomina o używaniu metod psychotechnicznych lub socjologicznych, takie metody znają właśnie psychologowie (manipulacja mikro) lub socjologowie (manipulacja makro)
 
-[dla bezpieczeńśtwa wszystkich przeklinam psychologów i socjologów i podobne tego typu pato-jednostki] spotkałem i jednych i drugich - ścierwo najgorsze - klasyk, na nich się znęcano, a oni "tradycję" znęcania się nad innymi kontynuują.
+[dla bezpieczeńśtwa wszystkich przeklinam psychologów i socjologów i podobne tego typu pato-jednostki] spotkałem i jednych i drugich - ścierwo najgorsze - klasyk, na nich się znęcano, a oni "tradycję" znęcania się nad innymi kontynuują. [tak samo służby, policję i wojsko - jedno gówno - przeklinam was]
 
 chodziłem po / odwiedziłęm wydział psychologii na stawki w warszawie, atmosfera gęstego kleju, na żadnym innym wydziale czegoś takiego nie było - cała teoria/praktyka psychologii to jest oszustwo, zaczynając od eksperymentów (naiwnie się zakłąda że metoda przeprowadzenia eksperymentu ma zaniedbywalny wpływ, a faktycznie jest wszystkim) , a na teorii kończąc, psycholodzy są albo zmanipulowani przez tych którzy wiedzą jak naprawde to działa, albo sami manipulują.
 

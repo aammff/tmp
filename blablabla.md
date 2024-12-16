@@ -55,3 +55,7 @@ jest takie powiedzenie, źe jak ktoś nie zna lispa, to go wymyśla, i to raczej
 kiedyś gadałem z jakimś Hindusem przez internet o religiach i on mi powiedział, że w indiach wymyślanie religii to był popularny sport [u nas może wymyślanie języków programowania jest może czymś podobnym, nie jest to całkiem głupie, ale też niestety nie samo dobro z tego powychodziło chyba] 
 
 imho w lispie chodzi o metainterpreter, ale nie chodzi o odśmiecarkę [to akurat imho był błąd lispowców, ale trudno oczekiwać, żeby wszystko od razu dobrze wymyślili]  i też trzeba zwrócić uwagę na dynamic a nie tylko lexical scope [obecne języki mają głównie lexical scoping]
+
+
+
+jeszcze taka uwaga dla różnych mądrali, mądralek i różnych innych debili, od wielu lat jest technologia bci, sterowanie myślami komputerem; jeżeli nie miałeś z czymś takim do czynienia, również jako programista, to może się nie wypowiadaj z jakąś pewnością o tym jak mózg działą. ja do takiej technologii po moich doświadczeniach nie zachęcam.

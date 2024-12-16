@@ -4,3 +4,4 @@ przez jakiś czas była w p[R]l-u dostępna tzw. medyczna marihuana
  - tzn na zasadzie sugestii można isę było ujarać zupełnie pustym waoporyzatorem, no bo zdarza się zapomnieć o aplikacji. no tego rzędu wielkości jest moc czy była, że nie wiadomo ile w tym sugestii a ile jakichś efektóœ w   roślinnych. 
  - chyba że chodzi o te pieluchomajtkowe apteki sanockie, ale próbowałem z krośnieńskiej i wielkiej różnicy nie było, poza tym że dostałem za 22% kwiaty rachunek na 665.78 PLN
  - przeklinam wszystkie apteki z wystawami pieluchomajtek, to jakaś nagiminna praktyka w sanoku
+ - o jakości kontaktów międzyludzkich w aptece - aptekarka wydając mi kwiaty powiedziała, żebym wziął rachunek, bo to baardzo ważne, bo jak policja będzie kontrolować, to żebym miał. podarłem momentalnie ten rachunek , przeklinam tę kurwę i policję. 

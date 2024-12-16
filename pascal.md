@@ -10,4 +10,11 @@ no pascal to nie był dobry język do nauki dla początkujących - dlaczego:
 
  - po co ludzie kombinują i wymyślają , czy tam wymyślali amerykę, zamiast po prostu poznać unixy , nie wiadomo, cep cepa cepaem pogania, debile nauczyciele informatyki bla bla bla
 
- - ale z ciekawych rzeczy było potem jakieś delfi czy delphi, gdzie można było gui wyklikiwać, to było nowe
+ - ale z ciekawych rzeczy było potem jakieś delfi czy delphi, gdzie można było gui wyklikiwać, to było nowe (to tak nasiłe pogłaskać pochwalić)
+
+
+ - ja napisałem chyba z jedną piosenkę tzn tekst do piosenki w życiu, w podstawówce, jej tytuł był właśnie "ofiara turbo pascala" i nie pamiętam dokładnie o czym była, ale o tym że ten język/kompilator jest głupi/pojebany, totalną odrazę do tego czułem/po odczuwałem, po latach się okazało że słusznie
+
+ - pascal się od C różni tym że napisy w pascalu są jako długość napisu + napis, a w C napis, zero   zapisywane, nie podjemuję się polemiki która konwencja lepszejsza
+
+ - nie no były/są jakieś sensowne programy w tym, nawet jakieś dema czycoś; ale ogólnie to błąd znać pascala a C nie. bo tam tak naprawdę jeś jest się wtedy na usługach tych co napisali kompilator, taka jest prawda. jesteście ludki zdalnie sterowani i tego nie wiecie. spoko loko?

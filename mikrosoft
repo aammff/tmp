@@ -3,3 +3,7 @@ mikcjostroft
  - ratunek dla nich jest tylko taki, że te ich resztę trzeba traktować jak msdos4.0, którego kod źródłowy w końcu po latach na sensownej licencji zamieścili na githubie
  - ktokolwiek stosuje lub wydał decyzję o stosowaniu "technologii" mikrosoftu do czegokolwiek poważnego wykazał się b absolutną niekompetencją
  - gry też często szybciej i lepiej działają na linuxie i emulatorów windowsów, nawet jak te gry były pisane z myślą o windowsach niby
+
+
+
+dawno temu pisałem jakieś programiki pod dosem, w qbasic, w masm, w tasm, w c/c++ chyba borland i moze  a w djgpp; pod windowsami 95 w asm napisalem jakis vxd do pokazywania liczby wstuknietych i przebytej odleglosci i klikniec myszka na trayu

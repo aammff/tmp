@@ -3,6 +3,8 @@ kiedyś się zastanawiałem jak to wszystko działa , i przy tej okazji zdarza
 system podatkowy w polsce:
  - kiedyś było tak, że jak ktoś chciał komuś jakąś większą sumę przekazaż, to musiał od tego zapłacić jakiśtam podatek, zależny bardzo od kwoty i temu komu chciał cośtam dać
  - no ale po uważnym przeczytaniu różnych ustaw, okazało się, że wystarczy się udać do kasyna, ryczałtem wynająć/zapłacić za stolik pokerowey, po czym nieumiejętnie odpowiednią kwotę "przegrać", od takiej przegranej/wygranej podatku jakby nie ma, czy tam nie było , przez jakiś czas, nie wiem chyba załątali
+ - takich i podobnych rzeczy znalazłem więcej i niektóre nawet były z jakimśtam powodzeniem stosowane czy używane
+ - zagadką pozostaje dlaczego to wszystko musi być takie skomplikowane, skoro przecież i tak sami sobie de dutki drukują
    
 system kwotowań w popularnym banku, i   giełdowych
  - dla wszystkich y były kwotowania udostępniane w zakresie podstawowym

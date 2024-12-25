@@ -1,5 +1,5 @@
-left (and/same|xor/diff) right
+arithmetic: left (and/same|xor/diff) right
 
-gaseous / liquid  //  solid / elastic	intelligence
+bisimulation: gaseous / liquid  //  solid / elastic	intelligence
 
-single-step  /  multi-step  optimization
+logic: single-step  /  multi-step  optimization

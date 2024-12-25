@@ -1,5 +1,7 @@
-arithmetic: left (and/same|xor/diff) right
+type checker
 
-bisimulation: gaseous / liquid  //  solid / elastic	intelligence
+left (and/same|xor/diff) right      arithmetic
 
-logic: single-step  /  multi-step  optimization
+gaseous / liquid  //  solid / elastic	intelligence    bisimulation
+
+single-step  /  multi-step  optimization    logic

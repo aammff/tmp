@@ -8,4 +8,4 @@ za ewentualne błędy lub nieścisłości na tej stronie odpowiedzialne są osob
 
 tu mo z można sobie poczytać o podobnych motywach https://en.wikipedia.org/wiki/Zersetzung
 
-https://github.com/aammff/tmp repozytorium towarzyszące
+https://github.com/aammff/public repozytorium towarzyszące

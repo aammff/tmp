@@ -7,3 +7,5 @@ uwaga: obiektem są własne zęby, najpierw pierwsze potem drugie, nie ma żadny
 za ewentualne błędy lub nieścisłości na tej stronie odpowiedzialne są osoby które mnie zgwałciły, okradły, pobiły, okłamały, oszukały, itd, itp. (autor dołożył starań żeby takich błędów lub nieścisłości nie było m.in. temu służą niepoprawiane literówki, jak ktoś się zna to wie czym są takie literówki)
 
 tu mo z można sobie poczytać o podobnych motywach https://en.wikipedia.org/wiki/Zersetzung
+
+https://github.com/aammff/tmp repozytorium towarzyszące

@@ -26,4 +26,4 @@ podawanie środków psychotropowych przez psychiatrów młodym osobom należy tr
 
 całe to przegniłe środowisko przeklinam i życzę im natychmiastowej śmierci 
 
-co byście nie zrobili jesteście gównem totalnym - sanok pośmiewiskiem gówno kraju
+co byście nie zrobili jesteście gównem totalnym - sanok pośmiewiskiem gówno kraju - kampania społeczna na rzecz odebrania praw miejskich sanokowi

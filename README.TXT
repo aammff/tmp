@@ -33,3 +33,5 @@ tak, ci "lekarze" / te konowały co robią kolonoskopie to najzwyklejsze pedały
 
 przypuszczam że jedyną jakąś jakby sensowną specjalizacją lekarską jest opatrywanie ran czy coś w tym stylu  ale to jest jakby taki listek figowy do całej reszty która przypuszczam więcej sumarycznie szkodzi wszystkim niż pomaga
 ale też różnie może być z tymi ranami, kto to wie.
+
+łażenie po łąkach z nosem w trawie też również nie wydaje mi się bardzo szkodliwe 

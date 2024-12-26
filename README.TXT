@@ -30,3 +30,6 @@ co byście nie zrobili jesteście gównem totalnym - sanok pośmiewiskiem gówno
 
 
 tak, ci "lekarze" / te konowały co robią kolonoskopie to najzwyklejsze pedały/homoseksualiści , kolonoskopy to takie ich zabawki bdsm ; jak się jest osobą młodą to natychmiastowo skierowanie się otrzymuje i nie ma żadnych kolejek ;-)
+
+przypuszczam że jedyną jakąś jakby sensowną specjalizacją lekarską jest opatrywanie ran czy coś w tym stylu  ale to jest jakby taki listek figowy do całej reszty która przypuszczam więcej sumarycznie szkodzi wszystkim niż pomaga
+ale też różnie może być z tymi ranami, kto to wie.

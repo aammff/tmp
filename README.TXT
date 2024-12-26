@@ -25,3 +25,5 @@ moją mamę również w podobnych sposób traktowali stosując niecelowe inwazyj
 podawanie środków psychotropowych przez psychiatrów młodym osobom należy traktować podobnie
 
 całe to przegniłe środowisko przeklinam i życzę im natychmiastowej śmierci 
+
+co byście nie zrobili jesteście gównem totalnym - sanok pośmiewiskiem gówno kraju

@@ -9,3 +9,6 @@ za ewentualne błędy lub nieścisłości na tej stronie odpowiedzialne są osob
 tu mo z można sobie poczytać o podobnych motywach https://en.wikipedia.org/wiki/Zersetzung
 
 https://github.com/aammff/public repozytorium towarzyszące
+
+
+konflikty interesów: autor od paru/kilu lat otrzymuje "stypendium" z mops/zus [renta socjalna] oraz ma dokumenty stwierdzające niepełnosprawność - obydwa zdarzenia na skutek działalnosći lokalnego pedofila/złodzieja znanego policji

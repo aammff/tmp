@@ -19,3 +19,5 @@ podawanie takich środków a następnie gwałty lekarskie są przykładem błęd
 konopie bardzo pomagają w odzyskiwaniu utraconych wspomnień stąd nie dziwi niecheć konowałów do ich stosowania
 
 w oczywisty sposób kolonoskopia/gastroskopia stosowana na młodych osobach ma charakter gwałtu / nadużycia / metod operacyjnych służb specjalnych - przeklinam bezpowrotnie wszystkich w to zamieszanych
+
+moją mamę również w podobnych sposób traktowali stosując niecelowe inwazyjne "techniki" "diagnostyczne" typu gastroskopia [nie pamiętam szczegółów]

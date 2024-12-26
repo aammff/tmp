@@ -1,0 +1,27 @@
+no taki eksperyment z cyklu sterowanie laserami linuxem, don't try this at home
+
+jest mnóstwo głupków którzy robią jeszcze gorsze rzeczy, poniższego lepiej nie robić bez dobrego powodu
+
+
+- lasery wielokolorowe dmx
+- dmx-usb
+- addressable rgb strips
+- jakiś mikrokontroler czy inne arduino do tych rgb strips
+- może być kwantowy generator liczb losowych z internetu, jakaś muzyka cokolwiek
+
+podpinamy wszystko tak jak ma być, oprogramowujemy, rgbstrips dajemy tak żeby lewa i prawa strona była taka sama, puszczamy liczb losowe z generatora albo muzykę na te rgb strips i sterujemy laserami w miarę szybko
+
+efektem będzie no cięcie oszustów różnych którzy się wpinają jakieś chujki z led-screenami outdoorowymi jacyś chuje stalinowcy co wycinają w paszportach dziury do zdjęć tego typu zjeby
+
+no ale to jest raczej średnio bezpieczne, tj bez żartów, można się z czegoś takiego nie pozbierać.
+
+można na takie eksperymenty trafić przypadkiem na jakiejś imprezie więc tu jakby jak to odkręcić ewentualnie
+
+publiczne używanie harf laserowych to jest taki sobie pomysł
+
+
+jak ktoś ma zacięcie to może przerobić wskaźniki laserowe kilka sztuk zamiast się w dmxy bawić
+
+w prlu na info o laserach była cenzura btw. no bo po prostu bardzo łatwo można poodczepiać te systemy do kontroli społecznej albo jakieś dziwne efekty uzyskać
+
+jak będziecie o tym opowiadać to dostaniecie łatkę crackpotów ;-)

@@ -11,7 +11,7 @@ tu mo z można sobie poczytać o podobnych motywach https://en.wikipedia.org/wik
 https://github.com/aammff/public repozytorium towarzyszące
 
 
-konflikty interesów: autor od paru/kilu lat otrzymuje "stypendium" z mops/zus [renta socjalna] oraz ma dokumenty stwierdzające niepełnosprawność - obydwa zdarzenia na skutek działalnosći lokalnego pedofila/złodzieja znanego policji,
+konflikty interesów: autor od paru/kilu lat otrzymuje "stypendium" z mops/zus [renta socjalna] oraz ma dokumenty stwierdzające niepełnosprawność - obydwa zdarzenia na skutek działalnosći lokalnego pedofila/złodzieja znanego policji (policja wystawie takie niebieskie kartki),
 to że został zgwałcony przez lokalnego konowała też nie jest bez znaczenia, wcześniej podano mu środki na zapominanie no ale akurat po iluśtam latach środki jakby trochę przestały działać
 
 podawanie takich środków a następnie gwałty lekarskie są przykładem błędu wyższego rzędu, szansa na raportowanie takich przypadków jest bliska zeru ze względu na podawanie środków wywołujących niepamięć

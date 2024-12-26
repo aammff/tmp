@@ -40,3 +40,5 @@ nie wiem jak to jest z klamerkami na zęby, mnie to nie przekonuje, ja mam krzyw
 
 
 ostatni kontakt z policją miałem jak lokalny dzielnicowy nakłamał mi że akurat komendant chce ze mną rozmawiać na miejscu okazało się że to nie prawda za to akurat przy posterunku był helikopter ;-)
+
+a zestaw lego policja z helikopterem to akurat ten pedofil złodziej co mnie gwałcił mi kiedyś sprezentował dawno temu na zamkowej ;-)

@@ -21,3 +21,7 @@ konopie bardzo pomagają w odzyskiwaniu utraconych wspomnień stąd nie dziwi ni
 w oczywisty sposób kolonoskopia/gastroskopia stosowana na młodych osobach ma charakter gwałtu / nadużycia / metod operacyjnych służb specjalnych - przeklinam bezpowrotnie wszystkich w to zamieszanych
 
 moją mamę również w podobnych sposób traktowali stosując niecelowe inwazyjne "techniki" "diagnostyczne" typu gastroskopia [nie pamiętam szczegółów]
+
+podawanie środków psychotropowych przez psychiatrów młodym osobom należy traktować podobnie
+
+całe to przegniłe środowisko przeklinam i życzę im natychmiastowej śmierci 

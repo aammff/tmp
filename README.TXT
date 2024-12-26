@@ -35,3 +35,5 @@ przypuszczam że jedyną jakąś jakby sensowną specjalizacją lekarską jest o
 ale też różnie może być z tymi ranami, kto to wie.
 
 łażenie po łąkach z nosem w trawie też również nie wydaje mi się bardzo szkodliwe 
+
+nie wiem jak to jest z klamerkami na zęby, mnie to nie przekonuje, ja mam krzywe zęby  a oprócz tego zniszczone przez dentystów

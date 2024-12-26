@@ -27,3 +27,6 @@ podawanie środków psychotropowych przez psychiatrów młodym osobom należy tr
 całe to przegniłe środowisko przeklinam i życzę im natychmiastowej śmierci 
 
 co byście nie zrobili jesteście gównem totalnym - sanok pośmiewiskiem gówno kraju - kampania społeczna na rzecz odebrania praw miejskich sanokowi
+
+
+tak, ci "lekarze" / te konowały co robią kolonoskopie to najzwyklejsze pedały/homoseksualiści , kolonoskopy to takie ich zabawki bdsm ; jak się jest osobą młodą to natychmiastowo skierowanie się otrzymuje i nie ma żadnych kolejek ;-)

@@ -1,0 +1,21 @@
+no jest taki trend bardzo ważny https://en.wikipedia.org/wiki/Reproducible_builds
+
+tyle że trk jest taki, że dwie te same binarki bajt-po-bajcie mogą mieć czy będą mieć mierzalnie inne działanie jeśli będą w specjalny sposób przygotowane
+
+przykładowo linux kernel używa rust, a rust może być uzyskany poprzez c++ albo poprzez ocaml
+
+ocaml jest francuski i jeszcze odśmiecarkowy
+
+więc można skompilować linuxa na dwa sposoby, dostać zupełnie te same binarki, a działanie będzie zupełnie inne
+
+i gdzie o tym jest na wikipedii napisane?
+
+konkretna cenzura czy niewiedza czy co?
+
+nie mówią czy nie mówili o takich rzeczach na studiach ani nigdzie, bardzo wątpię żebym był pierwszą osobą która na to wpadła
+
+więc ogólnie jakość i jawność build-farm jest bardzo ważna
+
+ew. pozostaje kompilować samemu, source-only distros
+
+więc tu jakby kryptografia czy hasze czy podpisy zupełnie na nic się zdają

@@ -1,0 +1,15 @@
+rzadko się zdarza okazja do czegoś takiego to napiszę
+
+w lo byłem adminem systemu unixowego/linuxowego na ok 1000 osób, w 3 i 4 klasie
+system kadencyjny starszy admin wybierał młodszego arbitralnie ale jakoś w konsultacji z najstarszym
+uptimey rzędu miesięcy nawet może nie wiem nie pamiętam, zero zwiech, włamów czy czegoś takiego
+wszystkie możliwe popularne usługi łącznie z takimi które już są dziś niepopularne
+tj dhcp, ssh, smtp, pop, imap nie pamietam, dns, rdns, ftp, www+cgi, squid, ytalk; debian, quoty, jakieś
+patche security, ręcznie kompilowane jadro;
+
+najciekawsza w praktyce była ta kadencyjność i arbitralność wyboru następnika; w praktyce to dość nieźle działało co
+może zaskakujące. tj była to jakaś ?merytokracja dziedzicząca
+
+system był względnie popularny non-stop i nie było jakichś protestów że coś nie działa.
+
+ze śmiesznych rzeczy lokalne komputery miały stałe ipv4 i były widziane z zewnątrz

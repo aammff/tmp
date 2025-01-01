@@ -1,5 +1,7 @@
 to co tutaj jest napisane, jest chyba raczej oczywiste dla kogokolwiek kto miał styczność z konopiami
 
+uwaga - byłem, jestem, będę 100% heterykiem - absolutny zakaz pedałowania - nie życzę sobie absolutnie żadnego zainteresowania "mężczyzn" takich jak pedały, geje, bi i inne tego typu potworki; miałem z takimi do czynienia służbowo dawno temu; też się znęcały nade mną osoby o takim usposobieniu; w ogóle mnie to nie interesuje uważam tego typu zainteresowania za debilizm. najprawdopodobniej tego typu zaintreresowania wynikają z niedoborów tetrahydrokannabinolu i innych podobnych substancji. a mogą powstawać zupełnie przypadkowo na skutek znęcania się typu "kary" cielesne przez osobników płci "męskiej" o podobnym usposobieniu i inne takie albo na skutek uczęszczania do kościoła katolickiego. tzw. skomplikowany system luster.
+
 zwyczajowo przeklinam wszystkich debili
 
 uwaga: obiektem są własne zęby, najpierw pierwsze potem drugie, nie ma żadnych innych obiektów; nieuszkodzony komplet drugich zębów jest warunkiem koniecznym i niewystarczającym do bycia osobą pełnosprawną; zęby są częścią mózgu / żeby zęby to część mózgu / zęby to mózg / zęby są mózgiem

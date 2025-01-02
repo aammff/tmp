@@ -1,0 +1,13 @@
+lean4 wydaje się fajnym językiem bo:
+z tego co czytałem:
+ - nie jest odśmiecarkowy
+ - daje się pisać zaawansowane programy które są kompilowane do niespodziewanie szybkiego kodu
+ - daje się dowodzić twierdzenia - taka nowość neu new w językach programowania
+ - jest na względnie fossowej licencji, tzn nie znam się na szczegółach 
+
+nie wiem jak z:
+ - bootstrappowaniem, nie udało mi się znaleźć szczegółowych informacji, do sprawdzenia czy to się w ogóle da zbudować czy też gdzieś zaszyta jest jakaś binarka do której kodu nikt nie ma/jest niedostępny jak w przypadku kotlina
+
+zdaje się że różni się od haskella chociażby tym że nie jest lazy by default
+
+?naturalnym pomysłem wydaje się konwersja twierdzeń mizarowych na mathlib albo w drugą stronę?

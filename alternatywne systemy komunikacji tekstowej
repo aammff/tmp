@@ -3,7 +3,7 @@ fajnym programem był czy jest ytalk - wiele osoób mogło tekstowo porozumiewa�
 
 jakimś warianetem w ten deseń jest strona https://www.ventscape.life/ - tu można w jeszcze większym gronie jakby hasłowo się komunikować; w sumie można poszukać albo napisać tekstowej wersji 
 
-na ircu za dużo nie siedziałem więc ine mam jakichś przemyśleń, defaultowo jest jednak założenie o logowaniu a przynajmniej backlogu, podobnie jak w przypadku smsów, komunikatorów czy maili
+na ircu za dużo nie siedziałem więc nie mam jakichś przemyśleń, defaultowo jest jednak założenie o logowaniu a przynajmniej backlogu, podobnie jak w przypadku smsów, komunikatorów czy maili
 
 
 
@@ -11,8 +11,8 @@ aha takie coś jeszcze kiedyś wymyśliłem
   można zbudować taki system gdzie są trzy terminale i połączone ze sobą tak że wyjście jednego jest wejściem drugiego. czyli że pierwsza osoba pisze do drugiej, ale dostaje wiadomości od trzeciej, która to z kolei dostaje wiadomości właśnie od drugiej.
   myślę że takie coś ma walory edukacyjno artystyczne
 
-  rozbudowanym wariantem jest wersja z komunikacją dwukierunkową, czyli pierwsza osoba pisze do drugiej i dostaje wiadomości od trzeciej  a takze pisze do trzeciej a dostaje wiadomości od drugiej
+  rozbudowanym wariantem jest wersja z komunikacją dwukierunkową, czyli pierwsza osoba pisze do drugiej i dostaje wiadomości od trzeciej  a także pisze do trzeciej a dostaje wiadomości od drugiej
 
-  szczegóły interfejsu użytkownika mają znaczenie ; w szczególności drugą rozbudowaną wersję można zrobić tak żeby albo były jednocześnie dwa kanały widoczne, albo żeby był przełączony kierunek (dla wszystkich jednocześnie)
+  szczegóły interfejsu użytkownika mają znaczenie ; w szczególności drugą rozbudowaną wersję można zrobić tak żeby albo były jednocześnie dwa kanały widoczne, albo żeby był przełączany kierunek (dla wszystkich jednocześnie)
 
 takie coś mogłoby pomóc niektórym załapać niuanse komunikacyjne

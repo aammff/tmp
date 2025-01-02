@@ -19,3 +19,8 @@ gejostwo to taki spektakularny przykład na softwareowe uszkodzenia umysłu; tj 
 
 mieszkałem jeden rok w bursie - podział płci parter płeć męska, piętro ?pięterko płeć żeńska - warunki ekstremalnie nieludzkie - widziałem co się z ludźmi działo,
    tzn ludźmi to oni byli na początku, a niektórym gejostwo wjeźdzało powaga
+
+
+w "polskich" szkołach można usłyszeć że antyczna kultura grecka była z gejostwem kompatybilna albo więcej niż kompatybilna, ekspertem nie jestem ale nie wierzyłbym za bardzo w tego typu teorie
+
+dawno temu w podstawówce był taki zbiór zadań z matematyki "i ty zostaniesz pitagorasem"; w liceum zaś był to zbiór zadań bez ciekawej nazwy za to autorami byli panowie Śnieżek oraz Tęcza.

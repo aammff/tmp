@@ -15,3 +15,7 @@ gejostwo to taki spektakularny przykład na softwareowe uszkodzenia umysłu; tj 
         o ile takie wiertarkowe splątania damsko męskie mogą być niezauważone i nie łatwe do odróżnienia od normalnych; tak te inne możliwości już odbiegają od normy
 
 - nieselektywnym naśladownictwie hierarchów kościelnych - no skoro panowie w sukienkach robią wrażenie na starszych paniach no to komuś może coś do głowy strzelić
+
+
+mieszkałem jeden rok w bursie - podział płci parter płeć męska, piętro ?pięterko płeć żeńska - warunki ekstremalnie nieludzkie - widziałem co się z ludźmi działo,
+   tzn ludźmi to oni byli na początku, a niektórym gejostwo wjeźdzało powaga

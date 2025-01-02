@@ -24,3 +24,5 @@ mieszkałem jeden rok w bursie - podział płci parter płeć męska, piętro ?p
 w "polskich" szkołach można usłyszeć że antyczna kultura grecka była z gejostwem kompatybilna albo więcej niż kompatybilna, ekspertem nie jestem ale nie wierzyłbym za bardzo w tego typu teorie
 
 dawno temu w podstawówce był taki zbiór zadań z matematyki "i ty zostaniesz pitagorasem"; w liceum zaś był to zbiór zadań bez ciekawej nazwy za to autorami byli panowie Śnieżek oraz Tęcza.
+
+na studiach zbioru zadań nie było, na egzaminach można było mieć dowolne książki jako pomoce a i tak łatwo nie było

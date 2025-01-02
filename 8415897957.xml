@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (3288093 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="8415897957" visible="true" version="1" changeset="99128021" timestamp="2021-02-11T18:18:33Z" user="Władysław Komorek" uid="693154" lat="49.5635890" lon="22.1862772">
+  <tag k="addr:city" v="Sanok"/>
+  <tag k="addr:city:simc" v="0953510"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="38-500"/>
+  <tag k="addr:street" v="Ludwika Zamenhofa"/>
+  <tag k="source:addr" v="gugik.gov.pl"/>
+ </node>
+</osm>

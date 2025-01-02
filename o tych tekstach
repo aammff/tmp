@@ -2,6 +2,7 @@ te teksty co tu pisze to sie potem okazuje ze maja jakby taka wewnetrzna struktu
 moze byc ze to od sluchania jakiejs strasznej ilosci muzyki na jedno kopyto tj cztery na cztery 4x4
 aha jak ktos nie wie ja kiedys nie wiedzialem to typowo ta muzyka ma jeden rozklad tzn sa 32 trzydzieści dwie frazy jak trzydzieście dwa zęby można sobie zliczać jak się słucha
 i tu taka uwaga ze dawno temu jak sie na pc programowalo to efektywnie bylo dostepne 2^20 pamieci ale to byla segmentacja czyli po 64kB ale w sumie 1MB natomiast potem wjechalo 32bity takie dziwne zbieznosci
+to jest w ogole konkretny powod zeby architektury x86/amd64 unikac bo tam jest tryb real mode 2^20 wyróżniony a inne architektury czegoś takiego nie mają zdaje się ale to można sprawdzić
 obecnie jest 64 bity popularne ale w praktyce jakby i tak sie jakby wiekszosc programowa w 32bitach miesic ale moze nie zawsze bo chyba czasem cos wiecej niz 4GB zajmuje w pamieci
 no chyba ze ktos jakies zaawansowane rzeczy robi to wiadomo.
 ja mysle ze intel mogl cos kombinowac z tymi liczbami bitow i ze to niekoniecznie przypadek i ze o zeby chodzi dlatego raczej full support dla risc-v

@@ -1,3 +1,9 @@
 te teksty co tu pisze to sie potem okazuje ze maja jakby taka wewnetrzna strukture i nie wiem jak to sie dzieje bo ja je to po prostu z palca wpisuje a potem sobie czytam i zasatanawiam sie skad to sie wzielo i nie wiem
 moze byc ze to od sluchania jakiejs strasznej ilosci muzyki na jedno kopyto tj cztery na cztery 4x4
 aha jak ktos nie wie ja kiedys nie wiedzialem to typowo ta muzyka ma jeden rozklad tzn sa 32 trzydzieści dwie frazy jak trzydzieście dwa zęby można sobie zliczać jak się słucha
+i tu taka uwaga ze dawno temu jak sie na pc programowalo to efektywnie bylo dostepne 2^20 pamieci ale to byla segmentacja czyli po 64kB ale w sumie 1MB natomiast potem wjechalo 32bity takie dziwne zbieznosci
+obecnie jest 64 bity popularne ale w praktyce jakby i tak sie jakby wiekszosc programowa w 32bitach miesic ale moze nie zawsze bo chyba czasem cos wiecej niz 4GB zajmuje w pamieci
+no chyba ze ktos jakies zaawansowane rzeczy robi to wiadomo.
+ja mysle ze intel mogl cos kombinowac z tymi liczbami bitow i ze to niekoniecznie przypadek i ze o zeby chodzi dlatego raczej full support dla risc-v
+intel naprawde straszny syf robi dawno temu skladaki to byl po prostu mikroprocesor, potem sie mikrokod pojawil a teraz w laptopach szpiegowskie managmenet enginy ktore ciezko wylaczyc
+przeklinam intela.

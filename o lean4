@@ -7,6 +7,7 @@ z tego co czytałem:
 
 nie wiem jak z:
  - bootstrappowaniem, nie udało mi się znaleźć szczegółowych informacji, do sprawdzenia czy to się w ogóle da zbudować czy też gdzieś zaszyta jest jakaś binarka do której kodu nikt nie ma/jest niedostępny jak w przypadku kotlina
+ - czy nie ma jakiejś pętli self-hostingowej w build systemie/makefileach
 
 zdaje się że różni się od haskella chociażby tym że nie jest lazy by default
 

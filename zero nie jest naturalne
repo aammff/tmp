@@ -1,0 +1,26 @@
+zero nie jest liczba naturalna tzn nie znam sie ale zapostuluje
+
+tzn to jest o tozsamosciach czy tam rownosciach i okazuje ze sie ze nie ma czegos takiego l albo jest wiecej niz jedna bo tak
+
+rozpatrzmy najprostszy konkretny przypadek czyli jakies liczby nie za duze albo jakiestam na konkretnym procesorze
+
+no i jak chcemy sprawdzic czy te liczby sa takie same no to mamy na x86 instrukcje cmp ktora robi tyle co sub
+
+tyle ze nie zmienia rejestrow a jedynie flagi czyli defakto defacto de facto de fakto rownosc czy tozsamosc to tyle co odejmowanie
+
+a odejmowanie to wiemy ze to jest rekurencja rekursja czyli jakby nie bylo zero czy 0 no to jest jakby innej klasy niz dodawanie
+
+stad 0- 0 zero minus odejmowanie rownosc tozsamosc to jakby to samo co rekurencji i to samo i w tej samo samej klasie co rekurencja
+
+rekursja bla bla
+
+i to j idzie do innego wora niz dodawanie i liczby naturalne
+
+czyli 0 osobno razem z liczbami ujemnymi  a osobno liczby dodatnie
+
+
+no a jakie inne rownosci niz ta przez odejmowanie no mozna poprzez przekraczanie liczby wiekszej  albo jakos przez strukturalnie porownywanie
+
+bitow mozna tez jeszcze jakos stay statystycznie la albo lazy i n tak nap  nam sie rownosci produkuja niespodziewanie i tozsamosci w tak ze
+
+nie wiadomo troche o co chodzi dziekuje pozdrawiam

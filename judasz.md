@@ -47,3 +47,5 @@ w sensie że treścią tego zapytania tj znaczeniem jest jakby sam termin który
 z semantyką jakimiś podstawieniami tekstowymi bisymulacjami i innymi takimi z fizyką nic a nic
 
 ulubione słowo https://pl.wikipedia.org/wiki/Logizowanie
+
+w zasadzie programowanie deklaratywne to jest jedno wielkie logizowanie

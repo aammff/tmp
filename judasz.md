@@ -45,3 +45,5 @@ no na pewno peephole optimization jest najsłabsze z tego wszystkiego; lepsze ju
 
 w sensie że treścią tego zapytania tj znaczeniem jest jakby sam termin który jest jakby jego tym argumentem czy parametrem; jedno wiemy że z optyką to nie ma nic a nic wspólnego a bardziej
 z semantyką jakimiś podstawieniami tekstowymi bisymulacjami i innymi takimi z fizyką nic a nic
+
+ulubione słowo https://pl.wikipedia.org/wiki/Logizowanie

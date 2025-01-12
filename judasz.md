@@ -44,7 +44,7 @@ w sumie nie wiem jaka różnica między focus a spot , to jakby anglojęzyczny n
 no na pewno peephole optimization jest najsłabsze z tego wszystkiego; lepsze już to window optimization ale to jest mało opisowe ale może i nienajgorsze też; jest nad czym dumać
 
 w sensie że treścią tego zapytania tj znaczeniem jest jakby sam termin który jest jakby jego tym argumentem czy parametrem; jedno wiemy że z optyką to nie ma nic a nic wspólnego a bardziej
-z semantyką jakimiś podstawieniami tekstowymi bisymulacjami i innymi takimi z fizyką nic a nic
+z semantyką jakimś przepisywaniem termów bisymulacjami i innymi takimi z fizyką nic a nic
 
 ulubione słowo https://pl.wikipedia.org/wiki/Logizowanie
 

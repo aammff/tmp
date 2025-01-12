@@ -37,4 +37,8 @@ Would any of these align with what you're looking for?
 
 
 
-chyba inline optimization do mnie przemawia, spot optimization też niezłe
+chyba inline optimization do mnie przemawia, spot optimization też niezłe, micro-refinement ok ale, snippet streamlining całkiem fajne ale jakby brzmi tak mniej technicznie ale też fajnie,
+minifix brzmi orwellowsko ;  tzn moze spot optimization tu wygrywa nie wiem. snippet streamlining jest chyba najbardziej opisowe ze jakby od razu wiadomo o co chodzi być może. no nie wiem
+można by zrobić jakiś konkurs czy poll czy ankietę na takie nowe zastępujące wyrażenie no i widać tu też takie self-reference lekkie
+w sumie nie wiem jaka różnica między focus a spot , to jakby anglojęzyczny native ktoś pewnie ma bardziej wyczucie
+no na pewno peephole optimization jest najsłabsze z tego wszystkiego; lepsze już to window optimization ale to jest mało opisowe ale może i nienajgorsze też; jest nad czym dumać

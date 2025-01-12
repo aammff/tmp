@@ -37,4 +37,4 @@ Would any of these align with what you're looking for?
 
 
 
-chyba inline optimization do mnie przemawia
+chyba inline optimization do mnie przemawia, spot optimization też niezłe

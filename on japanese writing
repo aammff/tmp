@@ -1,0 +1,17 @@
+some comparative layman notes
+
+- no small and large letters, though smaller versions are used as "modifiers" (ya yu yo), also as "furigana" (helper script)
+
+- stroke order is ?extremely important  - additional "unseen" "crc"
+
+- ?there seems to be no alternative character/syllable versions - compare with two versions of the polish z-with-dot or z-with-middle-line
+
+- i'd propose the correct stroke ordering is also important in computer font applications, despite being theoretically unseen on end result
+
+- stroke order includes correct beggining or direction of a stroke
+
+- writing direction may be different than in polish, books written/read from "last page" to "first page", "right to left" ordering
+
+- " " space character (ascii 32) is used less often
+
+- about 21k unicode characters are used to encode japanese

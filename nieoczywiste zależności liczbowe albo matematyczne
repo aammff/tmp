@@ -10,3 +10,5 @@ już teraz można powiedzieć że łamanie czy ignorowanie tej zasady prowadzi 
 wygląda to na coś w rodzaju bhp matematycznego czy informatycznego co jest dziwne że coś takiego miałoby być ale może to coś jakby próbować zapisywać nieskończone rozwinięcia liczb no nikt nie próbuje bo wie że się to nie uda i nie ma sensu ale może odpowiedniki takich działań są mniej oczywiste
 tzn może to jest jakby klasa błędów tak jak są jakieś tam typy czy klasy błędów które w jednych językach jakby z praktyki wychodzi że ich występowanie nie dziwiło tak są języki w których te typy czy klasy błedów nie mogą zaistnieć bo są jakby nierealizowalne czy niereprezentowalne
 make invalid states unrepresentable. no i tu podobnie nie należy konstruować systemów w ten sposób żeby tego typu błąd w ogóle mógł zaistnieć bo jakby z praktyki wiadomo przez analogię co się będzie działo.
+
+i taka obserwacja że zachowania ludzi jakby bywają podobne do systemów czy przedmiotów z którymi mają kontakt stąd można się spodziewać że taka zasada czy obserwacja może być ważna jeśli chcemy żeby ludzie unikali błędów

@@ -144,3 +144,28 @@ i innych no nawet mozna podejrzewac ze to celowo czy specjalnie jest zabugowane 
 no tak jak w c nikt nie pisze bez swiadomosci tych wszystkich buffer overflow i jak nie musi to unika tak smao i inne jezyki czy platformy czy systemy do robienia oprogramowania no ile mozna te wszystkie skryptowe dynamiczne interpretowane jezyki
 
 no ciagle tam jakies bledy sa a przeciez to nie jest niewiadomo jak skomplikowane oprogramowanie i mozna sobie juz pozwolic na bezbłędność
+
+
+no ogólnie jakośtam metodologia produkcji czy wytwórstwa oprogramowania musi się konkretnie zmienić żeby jakby to nie było na uwierz tylko żeby to było na formalny dowód matematyczny że wszystko jest ok
+
+
+jakby z tego tzn z tym mi sie te jezyki bardziej obiektowe czy zorientowane obiektowo kojarza ze sie costam pisze i to jest takie pisanie na tasmie i kleju i ze sie dodaje kolejne fragmenty i niby jest lepiej i lepiej
+
+ale jakby formalnego dowodu nie ma  pamietam to cale pisanie w smalltalku gdzie ludzie mieli ide smalltalkowe i nierzadko zmieniajac sobie kod to tu to tam doprowadzali sie do takiej sytuacji ze cos nie dzialalo
+
+i juz nie byli w stanie nawet dojsc gdzie jest blad z tym mi sie to kojarzy z trudnosciami w formalnym dowodzeniu nie wiem czy tak jest ale takie mam skojarzenia dlatego nie robily na mnie wrazenia te jezyki zblizone do c++
+
+tzn super jest c++ jak sie chce zrobic cos co naprawde szybko dziala czy cos ale jak ktos poprawnie w tym potrafi programowac to juz chyba brakuje miejsca w mozgu na cokolwiek innego takie to jest skomplikowane
+
+
+te unixy to sa jakby stare systemy i sa bardzo proste a jakby trudno powiedziec zeby tam czegokolwiek brakowalo wiec jakby fajna filozofia tj jest to w stanie czlowiek ogarnac w odroznieniu od tych nowych bibliotek ktorych
+
+przez ostatnie tam dwadziescia lat microsoft niewiadomo ile nienaprodukowal a tak naprawde chyba niespecjalnie te ich windowsy cokolwiek innego rewolucyjnego czy nowego robia niz te unixy sprzed parudziesieciu czy kilkudziesieciu lat
+
+
+tzn chyba tez nie jest tak ze ludzie w microsofcie wiedza jak to dziala chyba raczej jada na momentum rozpedzie i tylko na bierzaco lataja rozne dziury i nie maja zadnej swiadomosci calosci bo to sie zbyt skomplikowane zrobilo
+
+i stad nieuniknione fuckupy okazjonalne   podobnie moze byc z tymi niewiadomo jak bardzo dynamicznymi jezykami gdzie niewykluczone ze sa jakies petle i cykle zaleznosciowo wersjowe tzn dll hell tzw 
+
+no rant wyszedł jak zwykle  tj to ze ludzie sobie w jednym miejscu costam zmieniaja i poprawiaja i niby nie powinno miec   tzn ze nie ma ortogonalnej persystencji czy czegos takiego nie wiem   znaczenia gdzie indziej ale ma i taka zabawa bez konca bez sensu
+

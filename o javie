@@ -1,0 +1,89 @@
+no wiec z ta java to jakby pamietam jak kiedys nie yblo tego no jak to sie zaczynalo no to nawet czasami te ide tak dzialaly ze jakby w prostych edytorach tekstowych jakby bylo latwiej cos npisac 
+
+no ale bylo taka byla taka obietnica chyba write once run many czy cos  i jakby oc co
+
+tzn java jest spoko jakby poza jedna rzecza tj tymi odsmiecarkami  standardowo to jest no i lcz dlczego przykladowo
+
+no wiec jakby kiedy  kiedys w tykim taki mproje projekcie costam dziallaem projekt kilka last  lat wiele osob tak z nie wiem ile kilkadziesiat i jakby czyli jakby dosc duzy i zlozony ze jakby
+
+nikt tego nie znal po jakims czasie i t byly  no i co no o co chodzi program jakby serwerowy szybko mial dzialac zsz szybko zwracac odpowiedzi i soe  sie okazalo ze co ze zmiany
+
+parametrow odsmiecarki jakby bardzo zmienialy wyniki parametry pracy programyu z nieodpowiednich poprzed odpowiednie a dalej optymalne no niestety dawalo sie to bardzo konkretnie optymalizowac
+
+tz tj weszla nowa wersja nj javy nowe typy odsmiecarki nowe paea parametry i bylo sens spedzac duzo czasu nad na kreceniu tymi parametrami no i to  jest taka tragedia troche bo to jest ogolnie
+
+absurd tzn jakby to bylo w takim c++ od poczatku napisanea o  to by  wo o  w ogole ta tej zabawy nie bylo z krecne kreceniem parametrami odsmiecarki a prawdopodobnie z sam program dzialalyby
+
+szybi szybciej o paredziesiat czy nawte kilkadziesiat procent no niestety   tzn jakby ta te decyzja projektowa o uzywaniu javy byla bledan bledna   naa natomiast j tzn mozna ta k argumentowac
+
+natomiast moze byl a uzywana java z takiego np powodu ze lepiej sie sprzedwalo po prostu jak kod dzialali byl napisany w javie a nie np w c++ bo akurat klienci byli tak tacy a nie inni ze akurat
+
+tak sie skladalo ze n o no lepiej no mozna tak byc moze tak bylo
+
+
+zdaje sie tez ze nie powinno sie uzywac tzn no ogolnie jest wiele roznych miejsc gdzie sie moze wydawac ze odsmiecarkowy system uruchomieniowy bedzie dzialalo jd zialal dzialal jako tea tako
+
+a jakby sie po jakkims czasie po czasie czasami po ilustam latach albo moze i ktos sie syzbicijej zroeintwoac ze to jesdn jednak nie jest dobry pomysl po prostu
+
+
+tzn od krecenia ytmi odsmiecarkami jako jniek niejako sie przejscia fazowe w parametrach prac programu robia i to jest jakby czasmai zakaskujace n o no tzn takie efekty drugorze drugorzędowe jakby
+
+no i jasne ze program jakby został nienajlepiej npi napisany tyle ze jest tja to jakby nieuniknione w jkaichstma dlughaci projektach moze byc ze np no ze ludzie jakby sie no nie beda w stanie ogarniac
+
+calosci i beda programowac na zasadzie kolejnych latek z naziejea ze nic sie nie psuje a po jakims czasie takie buraki jakby wylaza ze ccostam wolno dziala i jakby niby nie wpoinn powinno ale tak jest
+
+i sie zaczyna krecenie i to j krecenie niestety bywa skuteczne no i to tu jest kanal bo ta obietnica write once run many jest jakby write once turn the knobs many times for each and every subsequnet patch
+
+or jvm version update jakby nikt sie ni teog nie  spodziwal ale tak bylo no bz sensu taki runa ta raknt
+
+taki rant
+
+
+
+ci fahb co fanego w javie ze jak sie dostaje dostalwalo od kogos te niby binarki javaovoe to c dosc latwo czesto sie dawalo je dekompilowac i sobie pyc poczytac jak cos dziala e wiec dawalo sie jakos wpinac
+
+t do roznych programowa czy tam patrzyc na jak dzialalja i potem pisac swoje j nieoficjalne klinety to do jednewgo serwisu czy drugiego  no mozna npaisac ze np o a jakiestam systemy bankowe np m no pewnie
+
+nie jedna osoba costam sobie takie takiego chalupniczoe prywatnie pisala brzmi to dziwnie bo np niby bank nie udostepnia api tylko costam dziwnego ale mozna sobie jakby sea samemu jakby popisac np
+
+jesli akurat oprogramowanie jest w javie
+
+
+a to jest w innych plikach tez ale prawodpodnbie jakies takie arbitraze moga dzialac ze detalicznie klienic maja softy osmiecarkowe a np t ci mniej detaliczny t no to maja bez odsmiecarek i jakby no moze ty bo byc
+
+jakas tam roznica zauwazalna odczuwalna ale taka ktorej by jedna grupa r drugiej nie opowiedziala w obawie przed posadzeniem o oszutwa i nierowne traktowanie jakby
+
+
+o javie jestzcze takie cos ze to je nie jest do konca najtrafniej nazwany jezyk po bo to jest taka wyspa i jakby i oni no to jaest takie cultural appropraition troche bo javy mab bardzo duzo ludzi uzywa i to jest
+
+takie obciacenie torche mo bo czy ktos mieszkanca javy pisal pi pytal w tej sprwaie czy oni sa sobie tego zy czy yz zycza nop np
+
+
+a przeciez np firma oracle to nie zawsze i ni nie od czase zawsze ni i nie w kazdej sprawie by oj wi firm a firma sun a miesza mi sie jedna z drgua nie  no nie wiazne
+
+
+java dlugo jakby nie miala konkuretna ale ostatecznie microsoft zrobil ten swoj dot net ktory jest praktycznie tym samym jakby no nieco inaczej zrobione  i tam zm zamiast javy i jest s zdaje sie si szarp 
+
+c
+
+
+co fajnego w javie ze jakby osoba malo zaawansowane przy pomcoy to roznych narzedzie jest w stanie chyba dosc szybko costam sklecic i jakby byc moze nawet taki programo np program nie bedzie jakos bardzo niepoprawny ale kto s wie
+
+natoamista costa kiatogo takiego w jezyku c plus plus jest raczej dla osoby malo zaawansowanej dosc d trudne  choc jakby teoretycnzi te jezyki maja dosc zl zbi zblizone jakby pole z obslugi cz ycos
+
+
+natomiast moze dosco  dosc wiele duzo osob y mysli sobie ze jak programuje w javie to sa programistami ale jakby kwestia taka czy oni byliby w stanie te jave napisac sami i chyba jest odpowiedz ze nie albo z czy wiedza jak dziala
+
+wiec to jest takie bardzo zaawansowane srodowisko uruchomioe uruchomieniowe jakby a nie tyle cz nie ytlko jezyk pror programowania wiec to jest jak by dosc specjalizonwae narzedzie i jakby co no tak jakby sie ktos na hulajnodze np
+
+poruszal i to nie oznacza ze ktos na rowerze potrafi jezdzic jesli na hulajnodzie potraf tzn moze lglupie porownanie alboe ale jakby no co jezyk programowania to srodek transportu jakby no lu lodka inaczej sie jednak porusza niz hulajnoga
+
+a jezykow prograwmowanie jest rp sporo roznych no t i bardzo roznie sie z nimi    ne wie nie wiem no n moze tak jak  ktos potrafi przy pomocy kolei sie dostac w rozne miejsca i moze powiedziec ze on jest jakby podroznikiem i ze potrafi
+
+podrozowanc tyle ze np chyba niekoneicznie potrafi prowadzic kolej
+
+
+nie ale na serio to ci co uzywaja javy to sie raze cz raczej znaja zeby nie bylo   tylko np no wielka szkoda ze nie ma ze te odsmiecarki sa na dziendobry i sie nielatwo is ich pozbyc po bo bylby naprawde fajny jezyk ogolneegoprzeznaczniea
+
+bo akurat w javie jest mnostwo pake pakietow bibliotek i swietne narzedzia doscy dosyc
+

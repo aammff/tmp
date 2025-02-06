@@ -1,0 +1,39 @@
+no wiec i w c i w assemblerze to byl czy tam jest popularny makra albo preprocesor c  no i jakby co w assemblerze to sie chyba uzywalo tego systemou makrowego do jakby zaemulowania tych wyzszych konstrukcji
+jezykowych z c powiedzmy  w c takiego typu numery jakby mniej popularne ale moze tez kto wie  natomiast w c ten system makr precproscoesor tdo doz do jakby znalazl takie dziwne zastosowanie w przygotowywaniu
+jakby zarzadzaniu kompilacji kompilacja   no bo jak sie okazuje ze cos c ze co ze  jakby programowanie to troche przygotowywanie moze takiego systmeu drog  przy czym jest rozroznienie czy te dri drogi beda
+wiz wyizolowane czy jakby beda polaczone jakostam z soba  
+
+no i kwei kwestia jest bibliotek i jakby ool ogolnie gdzie i jak ma trafic skompilowany kod zrodlowy i moze to byc  jakby program gotowy do uruchomiaia  moze to c byc bilbioteka z ktora sie z ktorej sie 
+chyba w czasie jakby kompilacji korzysta a moze d to byc biblioteka z ktorej korzysta sie podczas startowania programu tzw dynamicznie linkowana  a moze to byc nawte biblioteka z ktorej sie korzysta
+podczas dzialania programu opcjonanie tez jakby dynamicznie linkowana albo jka jakby opcjonalnie podlinkowywana t dynamicznie
+
+czyli jakby chcemy ten kod skompilowany juz jakby binarny na rozne sposoby miec do niego dostep i z soba mieszac na rozne sposoby i r tez w roznej kolejnosci czasamy czasami chcemy zebhy dany d fragment
+kodu nastp nastapil przed innym ale boa albo inaczej
+
+no i t do takich roznych atrakcji s cyrkow sluza  no atrakcji nie atrakcji no to jest potrzebne ogonl no do takich zaawansowanych fanaberii sa jakby dosc rozbudowane w opcjach te systemy do budowania
+i kompilowania programow
+
+
+o a w ogole zamisat rozwazac tylko jezyk programowania z sam w sobie mozna od razu z rozwazac z nim jego implementacje czyli jak to zostalo zaprogramowanie i zzaprogramowane i np sie okazuje ze taki assembler
+podstawowy no to jakb y  a zaleznie od zlozonosci insturkcji procesora moze byc latwiej lalbo trudniej napisa c ale idzie sobie to jeszcze jakos latwiej wyobrazic
+tak np jak konkretnie i precyzyjnie dziala doklandie taki kompilator haskella no to juz jakby jest niezla jas jazda  bo jezyka to sie mozna jeszce jakos tam nauczyc zrozumiec ale jak dziala ten kompilator ze 
+on na koncu jakby kog  kod generuje ktory jest tak szybkos szybki ja albo nawte szybszy niz recznie w c napisany kod no to juz jakby glowa mala.
+
+aha no i tu taki podzial na programistow amar amatorow sredniozaawansowanych i zaawansowanych, no wiec amatat amator costam sobie dlubie samemu powiedzmy w domu czy poza domem roznie natomiast 
+sredniozaawansowany costam gd dziala z inny,i lu innymi ludzmi i inni  i a i js ja i a i jeszcze inni ludzie sa tym zainteresowani jakostam a jak p inni programisci to juz w ogole no to jest jakby 
+srednio sredni poziom zaawansowania cyzli jak ludzie jakby no wiadomo jak przy jakc jakichs projektoach robia no to jest to d jakby inne problemy i zagadnienia soaa i to jakby jest w jakims sensie
+bardziej zaawansowane.  natomiast gdzie jest ten pow poziom wlasciwy wi wlasciwie zaawansowany no i to jest jakby cos w tym stylu tyloko tzn chodzi o osoby ludzi ktorzy zajmuja sie przygotowywaniem
+tych wlasnie jezykow programowania no i jeszcze jak nie jest tak ze ktostam sobie js samemu w domu amatarosko costam zrobic chociaz tez ale jak tak robi i dziala z innymi i jeszcze inni chca w tym
+z teych programowa jakby korzystac czyli takie jakby troche nieco meta metoa metaprpgramowanie ale jakby no to jest jakby poziome zaawansowany konstruktu konstruktorzy jezykow programowania chba
+tak sobie mysle 
+
+no taki cynk ostal dostalem odd kogos kto sie zna jakby i powe powtarzam
+
+tzn uzupelnilem tzn gragm taka teoty toe teoryjka teoriomat    tz n o tym zaww zaawansowaniu b  to ten cynk pomy m no mozna moze torche powtorzocy cocstma ze jak ktos sie zastanawia  czy sie zna na programowaniu
+i jak bardzo no to jest pytanie czy pracowal p czy zajmowal sie z ludzmi jezykami programowania tak konret nko konkretnie i jesli odpowiedz jest ze nie to mozna przypuszczac ze az tak sie dobrze nie zna ale to niekoniecznie
+cos szkodzi jakby   tzn nie musza sie wszyscy nie wiaodmo jak bardzo znac bo jakby tak bylo to nikt by nigdy zadnego programu w tych jezykach programowania nie napisal i jakby dizeniw e dziwnie by bylo
+
+
+wracajac do kompilacji i systmeu makr tno no t o ono  no ti o sie okazuje ze w c jakby te ten prg preprocesor jest np po to zeby jak plii korzystaja z siebie w zaja wzajemnie to zeby tylko raz to robiloy robily
+jakby zeyb tylko zagniezdzenia nie wy nie duplikowaly sie i to jest takim h chalupnictwem troche robione tak jakby prymitywinie troche czysto tekstoweo taki prymitywimzm no niby to powinno byc jakby robione
+bardizej profesjonalnie a nie jakimistam makrami lae take sie  tak sie jakos przyjelo to jest dziwne 

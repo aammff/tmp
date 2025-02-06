@@ -1,0 +1,27 @@
+nie zna m sie to sie wypowiaem ale np w C sa monady czy cos  podobnego jak sie np wielowatkowo programuje o i tam so sa pthe pr pthreads kiedys tak bylo chyba i jakby wt tworzenie nowego
+
+watku to jest ten unit albo t return a jak b chcemy zeby jeden watek na drugi zaczel czz zaczekal  no to jest chyba ten bind przyklaodowo wiec jak b jakby to jest ten przyklad
+
+na programowalny srednik   i nny chyba moze przyklad to sa te systemy obiektowe czy tam gui  do w robienia okienke okienek i widgetow  no podobnie pojedynczy widget to moze
+
+jest ten return unit i jakby normalnie jakies tam identyfikatowry i dostajemy i to przeplatamy recznie tkamy    a jak takie jakies lacznie tych wszystkich hir hierarhcii widgetow
+
+no to jakby tnzn ie wiem czy no ale moze
+
+
+no  i c zo co z tego no przygkladowo jakby to bylo explicite monadami to np jakby ktos chcial z sobie dodwac dodac jakies lok logowania to jakby j za jednym zamahem moglby i tu i tam
+
+sobie zrobic a tak jakby sie nie da 
+
+
+co by to molgo dawac takie zmo umonadowienie explicite to ja no jakby n mniej programow niepoprawnych przypakdiem pb by przechodzilo bo to jakby bledy wylapuje takie otypowanie
+
+ktorych sie normalnie no jakby dopiero po czsaie w runtimeie jakby czasmi sie ywlpaupje a czasmi nie no no wiadomo
+
+
+czy to znaczy ze nalezy uzywac tych jakby haskellowych technik w tych jezykach niehaskellowych no niekoniecznie bo chodzi o to zeby porp pr po prostu myslec w ktaich soposob zeby mniej bledow
+
+robic i to jakby nie oznacza jakiegos slepego kopiowania no    kiedy te monady stosowac no nie nie wime a kiedy jakas tablice haszujaca stosowac no ja kwiec widac ze sie nie da inaczej za bardzo no t
+
+to wwtedy ;_ ;-)
+

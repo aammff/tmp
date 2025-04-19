@@ -1,0 +1,164 @@
+języki assembleo a języki assemblerowe
+
+ogólnie jest coś takiego jak czy bywa errata do procesora do mikroprocesora można sobie poczytać żeby sobie niepotrzebnie jakby nie psuć humoru
+
+programowanie w assemblerze jest bardzo nietypowe bo tak
+
+nie jest czyms czymś niezwykłym komentowanie wielu wierzy wierszy linijek tj jest to być może najbardziej zachęcający do komentowania język jaki istnieje
+
+i nie wygląda to jakoś źle  z tego co pamiętam do to na x86 ase assemblerach komentarze są po średniku po prawej ale nie pamiętam różnie może być
+
+
+jest to język jakby w którym wszystko jest najbardziej jakby uproszczone i bezpośrednie jakby bardziej się nie da
+
+praktycznie każda   aha ka składnia jest bardzo prosta   tzn jest to mni mnemonik  i po odstępie argumenty czasem nic casem czasem jeden czasem parę rzadko więcej
+
+
+czasami są jakieś tryby adresowania których jest kilka i jest ich różna aplikowalność zależnie od opkodu instrukcji    tryby adresowania to takie jakby
+
+schematy arytmetyki i dostępu do pamięci wyliczania adresów taka dość  niespotyka jakby w innych językach atrakcja koncepcja 
+
+
+ogólnie jest to język w którym jest more than one way do to do it  more d m  more than one way to do it   coś jak po motto perla   przy czym jakby sposób
+
+wykonania poradzenia sobie z jakimiś pods mpo podzagadnieniem jest jakby pełnie pełni fukn funkcję trochę komentarza   na wiele po sposobów można np
+
+zwiększyć o jeden czy dodać jeden  do czegośtam
+
+
+inną s niespotykaną cechą jest coś takiego jak etykietowanie adresów tj nazywanie adresów do których potem można ale nie trzeba skoczyć z jakiegoś innego miejsca
+
+to też takie komenatrze czegoś takiego raczej nie ma w innych językach programowania
+
+
+inną kolejną rzeczą niespotykaną jest jakby mnogość instrukcji skom skoku  przy czym są wyróżnione skoki bezwarunki bezwarunkowe  skoki warunkowe jeżeli zachodzi
+
+skoki warunkowe jeżeli nie zachodzi     i te dwa ostatneie typy w różnych er wersjach tak jest na x86 który jest jakby dość barokowy pod tym względem
+
+
+czyli jakby mamy  dwa typy rozróżnione ifów  skoków warunkowych  skoki z negacja i bez negacji bedz bardzo ciekawie  dałoby się bez ta tego ale jjakoś
+
+ci od intela tak to wymyślili ogólnie a bardzo dziwaczni  tzn interesujący jest ogólnie dobór zestaw instrukcji do różnych procesorów można sobie poczytać to jest 
+
+bardoz ciekawe tj przypomina jakby  różne prze przyciski w kalkulatorach jet i jest ich w intel x86 tzn 8086 tak ponad sto niech nieco chyba przy czym dużo jest
+
+właśnie takich wariantów wersji których  jkaby możn mogłoby nie być  no ale są  i jakby trochę taką dokumentacją są dodatkową na poziomie procesora trochę
+
+
+kolejną ce cikaw ciekawą ceh cechą ponieważ jakby operjemy operujemy na bajtkodzie bytkodz bytekodzie  to można ogólnie robić skoki do środka innych instrukcji
+
+jeśli się to sprytnie poukłada to takie coś zadziała czyli jakby można kilka instrukcji czy parę w jednym adresie czy paru adresach pamięci pomieścić
+
+przypomina to trochę sytuację w DNAv w DNA  tam podobnie zależnie k gdzie tam się przyczepi polimeraza no to zsyntetyzuje jakby w innyc sposób inne biało białko czy coś
+
+
+no to jest t raczej trikowe i tak się ogólnie nie orbi p w programowaniu programując assemblerowo an no ale można to jest raczej takie triki konkursowe czy coś
+
+ewentulanie po to żeby jakby wykrzyaczy c jakiesś automatyczne programy deasemblujące dekompilujące  swojego czasu nież niezłym programem teog tego typu była ida
+
+
+skoki mają adresowanie ty trybu tryby adresowania np bezposrednie tj konkretny adres pamieci  mo ale tez np wzgledne w sensie o ilestam bajtow do przodu albo to do tyłu
+
+ba no bardzo duzo roznych takich smiesznych trikow jest wi i ogolnie jest jakby fajna zabawa 
+
+
+ogolnie assembler warto znac bo wtedy jakby nikt nie podskoczy bardzo duzo ludzi nie zna assemblera tj ludzi z bar branzy it i to widac bo czesto glupoty opowiadaja i sie nie znaja
+
+
+tzn sporo ludzi prograuje a nie zna assemblera i jakby trudno powiedziec co oni konkretnie robia na jakiej zasadzie oni mysla ze komputer dziala  
+
+
+assembler jest jakby bardoz bliski temu co się dizeje na poszczególnych nóżkach procesora mikroprocesora tego co się dzieje na płycie głównej na ścieżkach itd itp
+
+
+typowo jest taki podział na jakby  argumenty instrukcji paru kilku typów albo są to stałe  czyli jakby liczby ale takie nie za dużo nie za duże określonych zakresów 
+
+takicj takc takich jak po pół bajtu nibble  bajt  słowo d cczyli dwa bajty   podwójne słowo tj cztery bajty  parę innych noż może też i coś zmiennoprzecinkowego
+
+
+i co tam jeszd j co tam jeszcze   pamięć rejs   tzn są rejs rejestry czyli jakby takie zmienne predefiniowane zawsze dostępne  rejestry mikroprocesora
+
+jest pamięć taka ram   że tam można sobie po pisać i czytać i działa w miarę tak jaksi się myśli że dizała    można spotkać pamięć rom zę że zapisywanie tam nie zadziała
+
+a odczytaywa odczytywanie tak     też można się zastanawiać czy tam jak się zrobi s instrukcje skoku to cyz takie cos coś zadziała bo wtedy nie można np zmieniać instrukcji
+
+w locie no  często tak np       a czasami moż nm można mzieni zmieniać w locie instrukcje programu takie reprogramowanie taki hotswap jakby
+
+
+to zależy od jakby ustawień strony pamięci czy tam tak można czy tak nie można o robić 
+
+co tam jeszcze są urządzenia czyli takie niby pamięci tyle że podpięte pod konkretne urządzenia  i np na x86 są to instrukcje  in  albo out zależy co czy cz co tzn o i l o ile pamiętam
+
+o czy chce się pisać do urządzenia czy czytać  no i jest adres i co   i np klawiatura była bo pod jakimśtam adresem urządzenia  jest to jakiś konkretny numerek
+
+
+c zależy od architektury ale to ogólnie urządzenia bywają jakby podmapowane pod konkretne adresy pamięci i jakby niekoniecznie jest osobna instrukcja do urządzeń in out tylko 
+
+jakby używa się standardowych instrukcji
+
+
+
+ogólnie bardzo dużo dobrego softu zostało z swojego czasu napisane w assemblerze na tych starszych maszynach przed pecetowych  jakoś to sprzyjało czem czegoś czemu  czemuś takiemu
+
+jakby assembler nie narzuca żadnych ograniczeń mentalnych  no nie ma żadnych ograniczeń wsyzstko można s zrobić   czasami jez jest to żmudne po prostu ale się da co by się nie pomyślalło
+
+to się da
+
+
+mogą istnieć różnie © różnice między assemblerami pod względem sposobu tłumaczenia mnemonika instrukcji assemblerowej na konkretną sekwencję mi bitów i bajtów  akceptowaną m przez procesora 
+
+procesor pz przez maszynę  na język maszynowy konwersję
+
+
+no i ogólnie można napisać i są detektory jakiego softu assemblera jakim assemblerem zostało coś zassemblowane tj j której firmy która wersja tea takie rzeczy takie techniki forensic czyc coś
+
+
+aha no bo ogólnie assembler w kontekście reverse engineringu się często używa jakby czy doświadcza czyli można  są sprytne programy które jakośtam  binak binarkę potrafią na kod 
+
+bardziej po pierwotny zamienić    takim sposobem można jakby jakieś no cośtam można poprawić pozmieniać w programoach do których się nie ma go kodu ż x źródłowego
+
+
+np można przeanalizować driver w z jednego systemu operacyjnego dostępny a aby przygotowac przygor przygotować driver pod inny system operacyjny    np kiedyś driver do klawiatury k laptopa
+
+pod windowsami prza przeanalizowałem żeby d te dodatkowe klawisze przyciski mi pod linue linuxem idz działały
+
+
+albo np pozbyć się jakiegoś zabezpieczenia przed kopo po kopiowaniem czy coś to też mi się zdarzało  czaseami jest t obar bardzo łatwe a czasami jest to bardzo d trudne zależy od programu
+
+
+
+
+assemblery są bardoz przyjen przyjemne można sobie wybrać czy się te mnemoniki instrukcję małymi literami pisze czy wielkimi no a takie k  kwestie w estetyczne albo czy tabulatorów się
+
+używa czy spacji     co tam jeszcze nie ma jakby czegoś takiego jak zmienne t są podpisane adresy pamięci po prostu   no ogólnie w assemblerze jakby nic nie ma jest to jeden wielki
+
+ciąg instrukcji adresów pamięci obszarów i można sobie poukładac poukładać wszystko w takiej kolejności jw jw w jakiej s się chce i nic nie zostanie pozmieniane i ma się satyd satysfakcję
+
+
+
+jest takie zagadnienie relokowania obszarów pamięci jakby kwesti  to w dosie kwei kwestia różnicy między plikami kropka com a plikami kropka exe te pliki com są bardoz fajne bo nic tam
+
+nie ma ciąg kolejnych instrukcji i to było ładowane pod adres zdaje się sto h ha szesnastkowo czyli    natomiast exeki to tam bardzo bardziej skompliokwane jest tablica dodatkowa
+
+jakby no nie będę tu s z pamięci głupot podawał   coś podo  czy w a czy w linuxie są pliki odpowiedniki plików com z dosa zdaje się że nie ale dałoby się łątwo łatwo zrobić 
+
+no ale jakby szczegółów nie sprawdzałem  w linuxie o kiedyś było a kropka out a teraz są te elfy     z tych mikrosoftowych terchnologii to tam potem zdaje sie pe e exeki się pojawily
+
+zamiast m em ze  mar marek zbikowski zdaje sie inicjały tego typu
+
+
+
+ogólnie w sa assemblerze się sporo naprogramowałem tak jak inni chyba składali klocki lego to ja p naw naparzałem assemblerow i assemblerowe instukcje i tam pisałem jakieś pół
+
+niedokonczone progrmay typu skrolowanie napisow czy jakies proste ek efekty kg ef graficzne w assemblerze sie fajnie takie rzeczy pisze
+
+
+tez bardzo duzo czasu spedzialem wlasnie przed debugerami i przed deassemblerami no nie wiem ile godzin dni bardzo duzo
+
+
+to moze paradokslanie t duzo dawac poniewaz wszystkie programy sa ostatecznie tlumaczone czy wykonywane jakby no a na assembler czyli to jest taki wspolny dzielnik wszystkiego
+
+majac kontakt z assemblerem ma sie kontakt ze wszystkim po rp prostu
+
+
+tak samo zs sensownie moze byc grac w gry napisanew  w assemblerze albo programy napisane w assemblerze uszy yz uzywac  no 

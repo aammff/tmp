@@ -1,0 +1,195 @@
+bd db bazy danych data bases z perp z perspektywy mało znającego się osobo miesą miesiąco programisty
+
+w jakimś sensie wszystko jest bazą danych
+
+dość często można się spotkać jakby z takimi protobazami takie pliki csv albo tsv czyli z nagłówkiem headerem albo bez wiersze pod poodzielanych wea wartości przecinkami lub tabulatorami w tym stylu
+
+czasami są proste a a bazy danych takie jak sqlite
+
+gdzieśtam są w tle te mityczne mainr mainframey na którch na których jest niewiadomo co to gdzięstam może jeszcze c huczy szumi  to możliwe osobiście chyba nigdy nie widziałem ale można w to wierzyć chyba
+
+
+dawno temu to b się osoba taka niekumata spotykała z jakimiś wyborem na hostingu jak ktośc cośtam sobie jakieś fora cemsy zakładał to może wybierał czy chce co postrgresa czy cośtam innego popularnego
+
+co to było nie chce zaglądać jeden to słonik a drugi  no była jakaś baza danych też popularna 
+
+
+w każdym razie ten słonik ten postgres to jakby z tego co pamiętam to jakby dorównuje czy jak nie przewyższa tym profesjonalnym niegdyś bazom bazą zdaje sie takie opinie czy cośtam a jest opern opensource
+
+
+z esqula e sql sqla czytałem jakieś ca cegiełki i naze i nawet zda no może jedną i nawet zdarzyło mi się kartkówki klasówki pisać z tego jakieś wykręcone kosmiczne albo proste zapytania na kartkach papieru
+
+całkiem fajne fajne to było bo się nie znałem jakoś bardzo i jakby było tak że się znałem jakby iwęcej czyli jakby najpierw takich zapytań napisać nie potrafiłem pisać a potem już tak ty czyli fajnie
+
+teraz nie pamiętam jak ale pamiętam że pamiętałem wystarczająco żeby pisać   także fajne raczej jaby były te  wykłady te ćwiczenia   tam taka teoria też p matemtyczna jakby w tle jest tal także tak
+
+jakby wszystko elegancko z tymi ban bazami danych jest nikt mało kto się tego czepia nie ma o co jakby wszystko jakby d tak jakby podobnie jak w latach siedemdziesiątych czy cośtam wszystko jakby podobne
+
+mało co się chyba zmienia nie wiem taki tak to wygląda z  zewnątrz więc jtes to taki fragment kawał kawałek jakiejśtam jakby bardziej stałej tej całek całej wiedzy
+
+
+co o esqulu całkeiem fajny jest pytajnik deklaratywny bo jakby po angielsku słowa zapisane że rzeczywiście jak ktoś raz się s z tym skontaktuje spotkuje to będzie rozumiał te zapytania onae one są zrozumiałe
+
+nawet jak sea samemu nie napisze to jak ktoś pomoże albo znajdzie i skom skopiuje to raczej predke szybko zrozumie a nawet i moze zmodyfikuje takze to jest takie bardzo user friendly te esql esquele jak malo co
+
+
+pierwsze sowo slowo tk ktore sie nazywa to slowo acid  acid wszyst wszyscy informatycy mar bardzo lubia takze naprawde nie ma problemu  acid znaczy tyle ze bedzie jest bylo db dobrze i nie ma problemu
+
+acid to ogolnie ug udane wycieczki user friendly i te de it i te pe
+
+
+ta fajna matematyczna teoria to postaci normalne bazy baz danych  bardzo to jest sensowne  to jest swietne dla osob ktore lubia chca miec porzadek
+
+
+z trendow bardziej nowoczesnych jest kombinowanie przy acid bazy danych i z takiego kombinowania przy sqlu dostaje sie nosql ktore ktory wystepuje pod wieloma postaciami
+
+ogolnie chodzi o to ze jakby to sa r takie t rozne tir triki zeby bylo szybciej kosztem czegostam przykladowo  czy to jest czy to no to jest wtedy cos podobnego do bazy danych ale bez tych roznych oczekiwan
+
+ktore zwykle sie chce od bazy danych ale ktore jakostam niby mozna niby w niektoryc warunkach troche zignow zignorowac  tak jakp pisalem takich to roznych baz jest bardzo duzo nawet zdarzylo mi sie 
+
+tam takimi bazai jakby optymalizowac jakby zapytywac uzywac  z ciekawostkek np  zdarzalo sie tak ze zmniejszanie dostepnej pamieci z cache dla wezlow takih takich baz przyczynialo sie do wzrostu wydajnosci
+
+takze takie nieintuicyjne krecenie pare parametrami
+
+
+ogolnie bazy danych to sa takie albo badzo lokalne ze jeden plik jak sqlite albo takie wieksze nadal loklane albo takie rozproszone i stad wielkosc takiej bazy danych moze byc niewyobrazalna tzn jakas
+
+intuicja jakby do gigabajtow to jeszcze jed jeszcze ale wyzej jakies terabajty albo jeszcze wyzej to juz trudno sobie wyobrazic  moze w bazy bazodanowcy maja jakas intuicjae pewnie maja jakas wieksza
+
+
+bazy day danych zazwyczaj cechuja sie takie programowanie bazodanowe ze to nie jest real itme tr real time ze jakby dopuszczalne sa odpowiedzi k ze tam po odpowiedzi beda tra trwac zaleznie od bazy i zapytania
+
+w milisekundach albo sekundach albo i dluzej 
+
+
+czasami sie probuje optya optymalizowac profil p profil jakby statystyczny wynikow czasow takich zapytan rozwaza sie rozne percentyle takie ile tam jak czesto z baza szybko zwraca zapa zapytania a gdzie sie krztusi
+
+jakby i probuje sie znalezc te waskie k gardla c dlaczego tak sie dzieje bo czasami sie chce zeby  no czasami sie ma do wo  wyboru takie tra trejdoffy czy chcemy zeby nie bylo jakis  no ze mozemy nie chciec jakichs
+
+takich sytuacji ze sa jakies pojedyncze wolno trwajace zapytania  nawet kosztem sredniego opoznienia wik wiekszego przykladowo no to zaleznie od zastosowania
+
+
+jak zostac bazodanowcem czy to jest w ogole mozliwe trudno mi powiedziec nie wiem czy kogostakiego znalem to sa r moze i mityczne troche istoty osoby  tzn chyba radz raczej istnieja ale jakby to 
+
+troche moze to do sieciowc sieciowienia bazodanio bazodanowienie podobne w sensie jakby duzo porzadku tam mozna oczekiwac i spokoju taka jakby bardziej tradycyjna informatyka malo szalenstw duzo myslenia
+
+
+planowanie schematu bazy danych moze troche przypomina jakby programowanie pracae projektowe to tzn to jest po prostu jakby programowanie i jest bardzo wazne zeby dobrze taka baze danych sa zaprojektowac i 
+
+to sie trzeba konkretnie juz znac po prostu i tu skrotow jakby myslenia na skroty raczej nie ma i byc nie moze  no i tak samo jak baza wielka to sie juz trzeba na tym calym sprzecie pro oprogramowaniu konkretnie
+
+znac zeby wiedziec jak i czy to  faktycznie zadziala sj jak sie ma dokumentacja ktora moze jest a ktorej moze nie ma do tego co sie bedzie dzialo naprawde
+
+
+tzn ja to sa to tzn to sa takie wyobrazenia bo ja  bo ja bo bja    tak to byc moze sie odbywa trudno mi powiedziec nawet jak to sie dzieje
+
+
+zagrozenia bazodanowe tn no ta sa takie ze r trzeba dab dbac o oto zeby takiej bazy nie utracic nie stracic czyli jakies backupy ale to  tu wlasnie ten czynnik ludzki   czyli chociby zeby samemu aj jakby takiej
+
+bazy nie s nawet nie p bede pisac     no no np zeby nie zostac jakos zmanipulowanym i nie zadzialac ta w a w takim kierunku zeby sie nie zdarzylo cos nieodwracalnego
+
+
+takze to jest bardzo odpowiedizalnea profesja zajeie jakby i nie wiem jak to jest ta jak sie ma jakby po pod opieka jak sie jest odopowiedzialnym za powazne bazy danych trudno mi nawet powiedziec jak ot jest
+
+
+
+takie domowe bazy danych np plyt z muzyka robilem zdarzyoo mi sie robic w takim pror gr programie customowym do katalogowania plyt cd i to fajnie  dzialalo ale potem zostalem jakby zmanipulowany i utravcilem
+
+te plyty to takie tai taki przyklad zagrozen
+
+
+w programowaniu albo z zwykle sie bezposrednio te zapytania esquleowe wydaje albo sie korzysta z takim z takich proxy  jak to sie nazywalo o er em chyba objec t relationship manager nie pamietam zy dobrze nazwa
+
+tu zdania soa sa podizelone czy to jest sensowne czy nie ludzie robia i tak i tak  nie wiadomo czy to jakby jest takie narzut taki narzut pomocny czy tylko przeszkadza zalezy od projektow u byc moze
+
+
+
+teoretycznie w esqlu c zdaje sie ze to jest w miare rownowazne maszynie turinga i jakby teoreytcnzie wyszstko mozna w takim sqlu zapisac z tego co pamietam  chociaz raczej nie ma zwyczaju pisania gier w sqlu
+
+
+co tam dalej  jesli baza jest jakby w miare tradycyjna jakies bazy tabele widoki sqlowe to jakby jest fajnie i spooko   ale jak sie pododaje jakies triggery jakies procedury osadzone to sie moze semantyka zrobic
+
+czegos takiego bardzo trudnoa do uzmyslowienia i sie moze zaczac jakis cyrk maly lub wiekszy robic
+
+
+zdarzylo mi sie niepotrzebnie pojsc do lokalnej parafi zrobic check jak tam ta moja ksiea pae parafialna wyglada i ci oszusci moj wpis uszkodzili wpisali tma glupo glupoty pokreslili a naw nasetepinie wykonali
+
+jakby drugi wpis juz niby bardziej poprawni takze bardzo niepola niepolecam korzystania z takich przuczy przyczulkow wroga oni nic nie potrafia oni sie na niczym nie znaja oni tyllko wam zaszkodza unikac kosciola
+
+katolickiego jak ognia
+
+
+co tam ciekawgeo raid mi sie przypomina nie wiem czy takie rzeczy jeszcze sie stosuje kto wie jak k to jest bo rozne bardzo zaawansoawane trendy sie pojawily a ke ale kiedys sie uzywalo no i co istotne bylo
+
+raczej zeby dyski twarde nie byly z jednej serii w bo wtedy sie s moglo zdarzyc z wieksza szansa ze jak jeden dysk sie o uszkodzi to od razu inne r tez take takze po to rozni produceni rozne serie zeby
+
+unika ta unikac takich spietrzen
+
+
+taka prosta baza danych z ktora raczej kazdy ma do czynienia jest system plikow po prostu   nawet te pozniejsze systemy plikow tak bardziej w kierunku tych acidow poszly ze rozne jakby  przykladowo zaburzenia 
+
+zasilania jakby mniej niekorzystnie wplywaly na strukture takiej bazy danych
+
+
+z drugiej strony mentalna prostota wczesnych systemow plikow tez jakby sie liczy
+
+
+takim sasiednim zagadnieniem jest naprawienia odzyskiwanie danych z  jakichs posypanych baz danych  tu juz jakby no najlepiej jakby takie co sie cos sie nie dzialo ale tu juz sie no wiadomo 
+
+
+
+przyczyny takich uszkodzen bywaja rozmiate albo sprzet nawala albo uzytkownik wydaje bledne ist instrukcje albo blad jest w sofcie
+
+
+co tam sie przypomina snapshoty  jakies  online albo offline dedup   jakies  repliki  mniej lub bardziej te  nadrzednae a albo troche podrzedne
+
+
+co tam systemoy plikow jakby zwykle sa maja postac drzee drzewa ale w sumie to moglyby i byc grafem po prostu dla dlaczego nie
+
+
+inny sposob to jest contant s content addressable   czyli ze adres  takiego zbioru bazodanowego to jest wyliczane wyliczany z haszu jego zawartosci  czyli matematycznej funkcji skru skrótu
+
+
+te systemy peer to peer niegdys popularne to takie bardzo ciekaweg rozproszone bazy danych
+
+
+bit torrent sie przypomina niegdys popularny taki sposob jak udostepnic wielu osobom pliki i zeby nawet jak sie nie dysponuje wielkim zasobem laczy internetowych zeby sie to powiodlo
+
+
+sa takie specjalizownae bazy danych popularne na przyklad git to jest taka specjalizowana baza danych bardzo populare distributed rozproszona
+
+
+co tam w bazach danych sa takie cosie jaki jak commity albo rollbacki  jakies atomowe jakby operacje  ze albo chcemy cos w s zestawie w pakiecie w calkosci albo w cale wcale
+
+
+
+co tam jeszcze zmiany schematow baz danych no to jakby z czyms taki m sie czasami na a do czynienia cz ze nie tylko ten crud jakies selecty updaty inserty delety  ale tez taki metalevel ze zmieniamy schemat
+
+bazy danych  i takie cos byc moze musi byc czasami przygotowane w taki sposob zeby taka zmiane wycofac moc
+
+
+no w kodach programow to bazy danych sa zwykle widoczne jaki jako jakis hostname host address jakis login jakis port jakies haslo cos w tym sytlu jakies biblioteki z re z reguly sa do tego sie tam tworzy te z stron stringi
+
+zapytujace sie dostaje jakies odpowiedzi jest jakas serializacja deserializacja takie rzeczy
+
+
+
+co tam j zapytania mozna napisac lepiej lob lub k gorzej jak sie slabo zapytanie napisze to bedzie wolno dziala i irytowac osoby kompetentne czyli te mityczne istoty zeby im bbazy danych nie zamuloac za nie zamulac niepotrzebnie
+
+
+
+no i stad rzone zap zabawy w optymializcje do to kodu to jakichs indeksow na bazach danych tak to sobie wyborazam ze tkaie o cos ma miejsce
+
+
+jak z backupami to chyba sie napedow nas tasmowych uzywa tasm  tak przypuszczam podejrzewam
+
+
+w libreoffice sobie mozna prosta baze danych wyklikac wymodo wymodelowac potestowac why not moze ktos uzywa takich rzeczy
+
+
+aha sa tam tabele czyli tam sa rozne wiersze ktore mozna zmieniac albo sa takie widoki czyli tam juz zmieniac nie mozna ale mozna odczytac o bo one powstaja jakby dynamicznie z tych jakby tt tabel jakby na zadanie
+
+
+structured query language
+
+dane zaleza od klucza calego klucza i tylko od klucza

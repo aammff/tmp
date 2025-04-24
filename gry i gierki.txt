@@ -4,7 +4,7 @@ na ateri chyba nic ponad zgadnij liczbe w basic nie napisalem i to nie wiem bo n
 
 na amidze napisalem szubienice, nie wiem czy w basicu czy w czyms innym (cyzli zgadnij slowo zanim cie powiesza)
 
-na pc napisalem solver t do sudoku nie pamietam w czym, duzo pozniej backgammon w scheme, nieco wczesniej set w C [karciana gre gra set]
+na pc napisalem solver t do nonogramów tj obrazków logicznych nie pamietam w czym, duzo pozniej backgammon w scheme, nieco wczesniej set w C [karciana gre gra set]
 
 dawno temu na android market troche publikowalem, mialem 300k+ userow, wymyslilem jakies nowe kategorie programow ktore potem ybly bezlitosnie kopiowane i klonowane i sobie dalem spokoj.
 

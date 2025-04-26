@@ -1,0 +1,4 @@
+wygodne assemblery są niejednoznaczne
+
+na x86 opkody skoków są wielopostaciowe zależnie od wielkości offsetu stąd takie assemblery które pozwalają na obliczenia offsetowe bazujące na adresach etykiet będą produkować jakieś hmm interesujące wyniki
+

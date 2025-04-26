@@ -1,0 +1,27 @@
+plany unixowe
+
+myślałem jak tu systemy unixowe userowe zrobić żeby nie było wałków i problemów albo były mniejsze niż gdzie indziej i nie wiem czy się da ale wymyśliłem tak
+
+że jakby dwa po trzy czyli te trzy to jest t  to jest   dev test i prod   natomiast te dwa to są płciami czyli rozdzielność na dzieńdobry  i teraz tak
+
+nowe konto to jakby może być taka gradacja że na początku jakby pełen access do dev  potm potem do test a po jakimś czasie do prod
+
+no i jakby wszystko co z kont technicznych logowane i publiczne i wszystko w jakimiś gicie czy coś cała konfiguracja wszystko tam jawne takie coś myślę
+
+
+no i jakby ktoś cich chciał coś zmieniać to by mógł i jakby w takim systemie chyba nie ma jakichś tkaich takich miejsc średniawych c że kotś 
+
+że ktośtam cośtam   no  dev to się zakłada że tam się posypać może cokolwiek w dowolnym momencie  test że się może ale nie powinno syb sypać
+
+a na prod to założenie jest że się nie sypie a jak się tak zdarza to jest bardzo niedobrze i trzeba ustalić dlaczego i żeby tak się więcej
+
+nie zdarzyło   natomiast myślę że żeby nie yb było jakichś wałków to nie wiem czy poi powinny być dwie płcie na jednej maszynie
+
+
+takie coś to już jest jakiś eksperyment i wtedy dostawienie kolejnej trójki takich maszyn  jaki jakby nierozdzielnej no to jest jakby
+
+nie wie jak takie coś zda zadziała ani czy jest bezpieczne pojęcia nie mam     to wszystko ogólnie takie przemyślenia z mmoich
+
+doświadczeń jako jakby z  no z kontaktu z takimi wy systemami wieloużytkowh wieloużytkownikowymi wieloadminowymi dzielenia czasu
+
+zazwyczaj była to jdna jedna maszyna po prostu k gdzie wszyscy tam byi w byi  byli wrzuceni ale może to nieoptymalne i lepiej jak wyżej

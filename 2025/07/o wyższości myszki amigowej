@@ -1,0 +1,17 @@
+o wyższości myszki amigowej
+
+no dlaczego była lepsza
+
+lepszy design
+
+oto dlaczego
+
+po pierwsze jest to mechanika precyzyjna jest to kompatybilność w sensie jest ruch i elementy myszy to są ruchome części a nie jakieś kamery czy inne fotodetektory
+
+po drugie protokół komunikacyjny myszk mysz komputer to jest tam asynchroniczny tj nie jest to urządzenie sieciowe wysyłające jakieś datagramy usb oparte na jakimś se zegarze
+
+czyli że naciśnięcie przycisku myszy to jest od razy natychmiastowy bezpośredni impuls do komputera 
+
+czy można mysz amigową w takim sensie podłączyć do laptopa typu pc minus odpowiedź nie można ponieważ nie ma takich portów wyprowadzeń w sensie asynchronicznego gpio
+
+cbdo

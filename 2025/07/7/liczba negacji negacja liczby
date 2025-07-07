@@ -1,0 +1,58 @@
+liczba negacji negacja liczby
+
+pierdu pierdu o negacjach
+
+negacja czyli branch cyzli if czyli warunek i tak
+
+w jakims iks osiem szesc no to po kazdej prawie instrukcji dajmy na to alu no to sa liczone flagi w liczbie ilustam kilku chba chyba jak nie parunastu ale l raczej kilku wszystkie na raz
+
+w tych nowszych procesorach no to sa rownolegle liczone rozmaite sciezky sciezki wykonania programu i potem jest co jakies branch pee prediction czyli jakby sa liczone rozne wersje swiatow
+
+lacznie z takimi ktore na pewno nie beda istniec a w sumie czlowiek jak rozwaza rozne rzeczy no to nie chcial by rozwazac niektorych wersji swiatow takze takie zaawansowane mikroprocesory
+
+no to jakby nie sa kompatybilne z ostroznym mysleniem takze wniosek z tego taki ze z czlowiekiem nie sa kompatybiliz kompatybilne z mysleniem czlowieka mikroprocesory z branch prediction
+
+
+jakies tam waruni warunki w s cpu sa liczone mozliwe do zia zaimplementowania na duzo sposobow nie tylko te w flagi ale jakies mmu exceptions i pewnie wiele innych sposobow takze nie ma co
+
+sie napalac na jakies flagi mikroprocesora albo no na wiele sposobow
+
+
+czyli jedno podejscie to jest code execution path inne podejscie ze to jest arytmetyka boolowska boolean i czyli co taka zwykla logika ze jest prawda falsz i jest funkcja nor not
+
+i przypadkowo popularnie liczby sa binarnie implementowane ale moglybyb byc truj trojkowo przykladowo albo czwrokowo piatkowo jakkolwiek i wtedy liczby maja sie nie jak ni jak to do
+
+takich dwuwartosci li logicznych  p no i wtedy tez nie ma naturalnego flipa flipu inwersji bitowej tzn moze nie byc jelsi jest nieparzysta liczba jako podstawa systemu liczbowego
+
+
+jeszcze inne podj podejscie to obserwowanie przemi przedmiotu czy sie obraca no to albo sie obraca albo nie czyli jakby dwa punkty i czy sie zmieniaja ale jeslibysmy chcieli uwzglednic 
+
+kierune obrotu no to potrzebujemy trzech punktow takze smiesznie wychodzi ze liczba dwa albo i nawet trzy
+
+
+jeszcze jedno podejscie jakies liczbowe ze sa liczby z minusem i bez bi minusa czyli ujemne i wtedy negacja zmienia jedna na druga tzw znak  no i co tam ciekwawego w takim podejsciu
+
+no to nie wiem jaki to dzial czy tam aleg algebra czy arytmetyka i czy mozna sobie wyobrazic zeby takich wersji liczb nie bylo dwie albo ale zeby bylo trzy albo wiecej no pewnie ze tak
+
+wystarczy d rozwazac jakies figury geometryczne i pozycje na bokach czy tam krawedziach mozna sobie zaimplementowac wyobrazic jakies operacje ktore przepinaja punkty na rozne boki
+
+oznaczane roznymi kolorami minusowo minusow czy costam albo i nie minusow tylko jai jkaichs innych szlaczkow ksztaltow czegokolwiek
+
+
+co  tam jeszcze modulo jest cos takiego czyli ze wartosc absolutna z po a nie bede pisal ze tam liczba jaki jakby wielkosc liczby czyli jakby cos co sklejea liczby ujemne i dodatnie
+
+
+co tam w jakichs elektro costam no to sa przewody np czarne i czerwone i jakies tam oznaczenia terminali przykladowo baterii czy czegos tam polaryzacja tak sa zdaje sie dwie no ale 
+
+zdaje sie prz ni no nie wiem jak jest przyp pradzie przemiennym chyba sa trzy fazowe a moze i wiecej fazowe i co wtedy 
+
+
+czyli co jest albo i nie ma bylo albo i nie bylo bedzie albo i nie bedzie albo albo  
+
+
+nie tylko jest ze razy jeden to sie znak zmienia moze i byc not i tez sie bedzie cos zmienialo wte i we wte cyklic a moze byc i xor nap przyklad 
+
+no i przypominam ze odj o ze odejmowanie to nie jet jest inne dodawanie tylko zahacza o rekursje rekurencje zaskakujace to jest
+
+
+i moze tym sie rozni odroznia od jakichs tam boolowskich zer i jedynek gdzie no  negacja widac przeladowane pojecie jest

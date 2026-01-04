@@ -1,0 +1,41 @@
+share nothing
+
+wyjasnienie o co chodzi z gc i cow hakiem hackiem trikiem trickiem
+
+
+no to dawno temu albo nawet i wspolczesnie zauzmy zalozmy taki scenariusze scenariusz ze dane sa wzglednie duze pamieci wzglednie malo wieloprocesorowosc itd itp
+
+czyli jakby srodowisko bazodanowe  no i jest jakas sobie baza danych costam robi i wywoluje jakiestam podprogramy no i jakostam te dane z zapytan podaje zapodaje
+
+temu podprogramowi tym podprogramom i jezeli no jest jakies ffi albo i nie foreign u function interface te dane dajmy na to optymalizacyjnie nie sa kopiowane 
+
+miedzy baza a podprogramem tylko dajmy na to sa uzywane wskazniki i ewentualnie jakies copy on write nie wiem czy taka sytuacja ma miejsce w javie a l ale moze i tak
+
+a wacz a wczesniej to jakies inne jezyki mogly byc  no i w takim scenariuszu byc moze ma sens ze zeby te podprogramy jakby byly w jezykach z gc bo wtedy jakby te
+
+dane mozna uwolnic w odpowiednim momencie i to ta baza danych wyzej jakby bedzie tym sterowac czyli gc jes t jakby nieco zintegrowany z baza danych wyzej
+
+no i wtedy zuc zuzycie pamieci moze byc jakby dosc niewielkie i jakby moze to dzialac nienajwolniej
+
+
+no a kiedy jakby gc na pewno nie bedzie mialo sensu no inny scenariusz gdzie jest nie baza danhych i system komputerowy zlozony tylko prosty mikrokontroler i tam zadnego 
+
+kodu wyzej nie ma jest tylko program w taki m przypadku jakby zastosowanie gdc gc bedzie nadmiarowe czyli widac ze jesli dostarczamy jakis programy program jakies algo
+
+to moga byc zaimplementowane na dwa sposoby jeden z zalozeniem ze jey jezyk jest typu gc i jest automagiczne zarzadzanie pamiecia a druga wersja to ze tego nie ma
+
+przy czym jasne jest ze druga wersje kodu mozna zastosowac dosc latwo w pierwszym przypadku z gc a odwrotnie juz nie teraz kwestia z czy gc powinno byc defu defaultem
+
+no i jakby mysle ze wcale nie to nie jest defauult ze kod pracuje pod baza danych w trybie wsadowym obecnie taka sytuacja to byla nie wiem piecdziesiat lat temu obstawiam nie wiem
+
+zaleta czy moze cecha nie uzywania gc t jrest to t ze te dane jam jakby swiadomosciowo sa a bardziej zakresowo ograniczone w jednym miejscu wiadomo kiedy sie pojawiaja wiadomo kiedy znikna
+
+
+bo niestety znana z cecha mniej lub bardziej polpoprawnych programow jest to ze np hulaja niewiaodomo ile dni tygodni a l ale costam sie zawierusza nie jest odpowiednio dokladnie napisane
+
+i np co kjakis czas trzeba restartowac bo w sumie nie wiaodmo jak poprawic a tak jakby troche dziala itdp itp no rozn e bleh
+
+
+yy moze nie ten pli do konca ale taki fi folkklor nie wf folklor znanym starym bledem ww jakichstam wersjach mnie j lub bardziej noie wiem czy serwerowych czy desktopowcyh ktorchs tam windowsow
+
+bylo to ze one ni emogly wiecej niz iles dni chodzic i s zawsze sie zawieszaly no to takie z tym mi sie kojarza te redmondowe systemy ze to jakby no takie smutki smuteczki

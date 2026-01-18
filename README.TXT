@@ -17,6 +17,22 @@ https://github.com/aammff/tmp3 repozytorium towarzyszące
 konflikty interesów: autor od paru/kilu lat otrzymuje "stypendium" z mops/zus [renta socjalna] oraz ma dokumenty stwierdzające niepełnosprawność - obydwa zdarzenia na skutek działalnosći lokalnego pedofila/złodzieja znanego policji (policja wystawie takie niebieskie kartki),
 to że został zgwałcony przez lokalnego konowała też nie jest bez znaczenia, wcześniej podano mu środki na zapominanie no ale akurat po iluśtam latach środki jakby trochę przestały działać
 
+[edit: the author does not receive any monetary or nonmonetary support from anymo anym anybody and does not intend to contact so called pool polish authorities really polish rapists  this a is a joke at most not a country or perhaps something much worse
+
+i maintain c strei strict no contact polish towaa w towards local criminals
+
+i do not care what happens when so called money is empty i do not want to live i was already raped by pli polish doctors and polish ... ]
+
+[yes they speak polish or they pretend to speak polish they to do not really know any language they are akin to mechanical mirror devices]
+
+[i no longer have any valid documents regarding anything health related   i no longer have any driving license or country id      only passport left not sure of if valid or accepted elswew elsewhere]
+
+[my last paymenbt f was about a year ago do nto not remember exactly]
+
+[not sure if year is valid as i as there are internet sites which tell diffrent date some years ago not sure what to think of it]
+
+[no until you have worked as a programmer in the too big to fail fortune big number you have no idea no practical idea what money is your welcom]
+
 podawanie takich środków a następnie gwałty lekarskie są przykładem błędu wyższego rzędu, szansa na raportowanie takich przypadków jest bliska zeru ze względu na podawanie środków wywołujących niepamięć
 
 konopie bardzo pomagają w odzyskiwaniu utraconych wspomnień stąd nie dziwi niecheć konowałów do ich stosowania

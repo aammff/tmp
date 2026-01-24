@@ -1,0 +1,11 @@
+exceptionary exceptions
+
+one way of documenting proper separating proper from improper good from p bad code paths in c plus plus is to mark
+
+some paths with throw catch keywords
+
+which are explicitly banned in google c style guide used for example in chromium
+
+yet there is an exception for not the greatest operating systems namely windows
+
+do not do ew evil no less

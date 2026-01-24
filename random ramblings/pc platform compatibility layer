@@ -1,0 +1,38 @@
+pc platform compatibility layer
+
+it used to be that pc had bios a small library of os like functions giving basic access to display block devices 
+
+though fs file systems were not implemented thus a pc resembled amiga booting did not turning powoe power on did
+
+no not result in a usable user experience unless a drive was aa attached with a bootable medium though it was
+
+also popular and easy to setup a network adapter card bott booting as a thin client through well network card bioses were advanced
+
+
+originally iirc pc was i distributed fir with a so called ms dos operating system interesting history avaiable elsewhere
+
+nowadays an they opensourced idk version four or sth also a freedos is also avaialble so it is possible to run an opensource dos a compatible system
+
+what was dos as it was used well almost the same was avia avaiable as a dos software and drivers as is or was in early linux on the kernel side
+
+so was it an unix system was dos a unix system  surely it resembles early uni t maybe not surely one can thin k  though ipc are di implemented 
+
+
+in a different style mostly based on convenctions and os hooking cooperative os hooking perhaps some resemblance to the amiga programming model
+
+mmuless machines  so in a way linux is a nextgen dos this is were fun went or continued in a way  it is possible or was to run early linux kernels
+
+from dos through the loadlin program perhaps current kernel versions can still be run this was this way   a powerful suite is ala also avaialble on
+
+linux emau emulating or directly accessing pchardware t so linux can run as a dos host or dos passthrough in a way
+
+
+it should be possible to generate dos coma compatible hardware drivers from linux or it should even be possible to compile linux to a dos compatible dy system
+
+as it is possible to dynticks tickless etc etc    actually lilo was an early popular boot manager for linux  however more advanced grub with dos like functionality
+
+for example filesystem browsing was er very helpful thus gained popularity   probably a demolike multiboot example partition containing most popular minimal version
+
+of ba various opensource operating system with a simple demo or game could be va a very fun and usable addition to multiboot menus  thoughts pe possibly stemming from the grub invaders toy game
+
+
